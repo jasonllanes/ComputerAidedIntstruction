@@ -1,0 +1,14 @@
+c:\users\students\documents\visual studio 2015\Projects\Computer Aided Instruction\Computer Aided Instruction\bin\Debug\Computer Aided Instruction.exe.config
+c:\users\students\documents\visual studio 2015\Projects\Computer Aided Instruction\Computer Aided Instruction\bin\Debug\Computer Aided Instruction.exe
+c:\users\students\documents\visual studio 2015\Projects\Computer Aided Instruction\Computer Aided Instruction\bin\Debug\Computer Aided Instruction.pdb
+c:\users\students\documents\visual studio 2015\Projects\Computer Aided Instruction\Computer Aided Instruction\obj\Debug\Computer Aided Instruction.csprojResolveAssemblyReference.cache
+c:\users\students\documents\visual studio 2015\Projects\Computer Aided Instruction\Computer Aided Instruction\obj\Debug\Computer_Aided_Instruction.Form1.resources
+c:\users\students\documents\visual studio 2015\Projects\Computer Aided Instruction\Computer Aided Instruction\obj\Debug\Computer_Aided_Instruction.Input_Username.resources
+c:\users\students\documents\visual studio 2015\Projects\Computer Aided Instruction\Computer Aided Instruction\obj\Debug\Computer_Aided_Instruction.Menu.resources
+c:\users\students\documents\visual studio 2015\Projects\Computer Aided Instruction\Computer Aided Instruction\obj\Debug\Computer_Aided_Instruction.Properties.Resources.resources
+c:\users\students\documents\visual studio 2015\Projects\Computer Aided Instruction\Computer Aided Instruction\obj\Debug\Computer Aided Instruction.csproj.GenerateResource.Cache
+c:\users\students\documents\visual studio 2015\Projects\Computer Aided Instruction\Computer Aided Instruction\obj\Debug\Computer Aided Instruction.exe
+c:\users\students\documents\visual studio 2015\Projects\Computer Aided Instruction\Computer Aided Instruction\obj\Debug\Computer Aided Instruction.pdb
+H:\Computer Aided Instruction\Computer Aided Instruction\bin\Debug\Computer Aided Instruction.exe.config
+H:\Computer Aided Instruction\Computer Aided Instruction\obj\Debug\Computer Aided Instruction.exe
+H:\Computer Aided Instruction\Computer Aided Instruction\obj\Debug\Computer Aided Instruction.pdb
